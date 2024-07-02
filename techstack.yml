@@ -1,0 +1,968 @@
+repo_name: huhuhuHR/arthas
+report_id: bf1e45311aae66c197e16ee2ae419e1a
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:26:43+00:00'
+requested_by: hengyunabc
+provider: github
+branch: master
+detected_tools_count: 74
+tools:
+- name: ActionScript
+  description: An object-oriented programming language
+  website_url: http://www.adobe.com/devnet/actionscript.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: ECharts
+  description: A free, powerful charting and visualization library
+  website_url: https://echarts.apache.org/en/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/4230/aSzYQa43_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package.json
+  detection_source: site/package.json
+  last_updated_by: Fatpandac
+  last_updated_on: 2022-07-15 14:37:32.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Project Reactor
+  description: Library for building non-blocking applications on JVM
+  website_url: https://projectreactor.io/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-11-04 07:54:45.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/pom.xml
+  detection_source: arthas-spring-boot-starter/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-06-24 12:57:13.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 3.2.38
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: XState
+  description: State machines and statecharts for the modern web
+  website_url: https://xstate.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/12312/default_b7db756c27572b5302a654fe5a96f617084c7d8a.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-11-03 14:22:06.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/.github/workflows/auto-prettier.yaml
+  detection_source: ".github/workflows/auto-prettier.yaml"
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-07-18 04:54:20.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/agent/pom.xml
+  detection_source: agent/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2018-08-31 03:49:48.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.2.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2019-09-20 09:14:19.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-09-11 12:23:30.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-04-23 13:00:37.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: site/package.json
+  last_updated_by: Fatpandac
+  last_updated_on: 2022-07-15 14:37:32.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2018-08-31 03:49:48.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/yarn.lock
+  detection_source: site/yarn.lock
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-07-18 09:04:15.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/src/it/arthas-spring-boot-starter-example/src/main/resources/application.properties
+  detection_source: arthas-spring-boot-starter/src/it/arthas-spring-boot-starter-example/src/main/resources/application.properties
+- name: DaisyUI
+  description: A customizable plugin for Tailwind which adds components
+  website_url: https://daisyui.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48516/default_dfb71fd0f2693f4157a1cc9ce86a7aa439068eb6.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Pinia
+  description: The Vue Store that you will enjoy using
+  website_url: https://pinia.vuejs.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48301/default_0cffd727391e16b2a8bd6edbcffc0255a3a541d0.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/package.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/arthas
+  detection_source: Repo Metadata
+- name: VuePress
+  description: A static-site generator built by the Vue.js team
+  website_url: https://vuepress.vuejs.org/
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/8863/paeckCWC.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: site/package.json
+  last_updated_by: Fatpandac
+  last_updated_on: 2022-09-02 08:30:29.000000000 Z
+- name: log4j:log4j
+  description: Apache Log4j 1.2
+  version: 1.2.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2019-09-20 09:14:19.000000000 Z
+  vulnerabilities:
+  - name: SQL Injection in Log4j 1.2.x
+    cve_id: CVE-2022-23305
+    cve_url: https://github.com/advisories/GHSA-65fg-84f6-3jq3
+    detected_date: Jan 22
+    severity: critical
+    first_patched:
+  - name: Deserialization of Untrusted Data in Apache Log4j
+    cve_id: CVE-2022-23307
+    cve_url: https://github.com/advisories/GHSA-f7vh-qwp3-x37m
+    detected_date: Nov 26
+    severity: critical
+    first_patched:
+  - name: Deserialization of Untrusted Data in Log4j
+    cve_id: CVE-2019-17571
+    cve_url: https://github.com/advisories/GHSA-2qrg-x229-3v8q
+    detected_date: Aug 22
+    severity: critical
+    first_patched:
+  - name: Deserialization of Untrusted Data in Log4j 1.x
+    cve_id: CVE-2022-23302
+    cve_url: https://github.com/advisories/GHSA-w9p3-5cr8-m3jj
+    detected_date: Jan 22
+    severity: high
+    first_patched:
+  - name: JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data
+    cve_id: CVE-2021-4104
+    cve_url: https://github.com/advisories/GHSA-fp5r-v3w9-4333
+    detected_date: Dec 15
+    severity: high
+    first_patched:
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-09-11 12:23:30.000000000 Z
+- name: ch.qos.logback:logback-core
+  description: Logback-core module
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-10-10 15:05:25.000000000 Z
+- name: com.alibaba:fastjson
+  description: Fastjson is a JSON processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-05-25 03:20:50.000000000 Z
+- name: com.fifesoft:rsyntaxtextarea
+  description: RSyntaxTextArea is the syntax highlighting text editor for Swing applications
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-05-25 03:20:50.000000000 Z
+- name: com.github.ben-manes.caffeine:caffeine
+  description: A high performance caching library for Java 8+
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-12-02 11:14:47.000000000 Z
+- name: io.netty:netty-buffer
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-client/pom.xml
+  detection_source: tunnel-client/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2019-08-29 08:05:50.000000000 Z
+- name: io.netty:netty-codec-http
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-client/pom.xml
+  detection_source: tunnel-client/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-12-08 03:43:36.000000000 Z
+- name: io.netty:netty-handler
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-client/pom.xml
+  detection_source: tunnel-client/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2019-08-29 08:05:50.000000000 Z
+- name: io.netty:netty-transport
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-client/pom.xml
+  detection_source: tunnel-client/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2019-08-29 08:05:50.000000000 Z
+- name: io.projectreactor:reactor-test
+  description: Reactor Test support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-11-04 07:54:45.000000000 Z
+- name: jline:jline
+  description: Jline 2.x
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/client/pom.xml
+  detection_source: client/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2018-11-01 17:06:02.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/agent/pom.xml
+  detection_source: agent/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2018-08-31 03:49:48.000000000 Z
+- name: net.bytebuddy:byte-buddy-agent
+  description: The Byte Buddy agent offers convenience for attaching an agent to the
+    local or a remote VM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-agent-attach/pom.xml
+  detection_source: arthas-agent-attach/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-06-24 12:57:13.000000000 Z
+- name: ognl:ognl
+  description: OGNL - Object Graph Navigation Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2018-08-31 03:49:48.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-12-08 03:43:36.000000000 Z
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  version: 2.12.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-10-10 15:05:25.000000000 Z
+- name: org.assertj:assertj-core
+  description: Rich and fluent assertions for testing for Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-vmtool/pom.xml
+  detection_source: arthas-vmtool/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2021-07-06 12:42:55.000000000 Z
+- name: org.jboss.modules:jboss-modules
+  description: Parent POM for JBoss projects
+  license: Apache-2.0,CDLA-Permissive-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-12-01 16:55:00.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-10-10 15:05:25.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/core/pom.xml
+  detection_source: core/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-12-01 16:55:00.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/pom.xml
+  detection_source: arthas-spring-boot-starter/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-12-08 03:43:36.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/src/it/arthas-spring-boot-starter-example/pom.xml
+  detection_source: arthas-spring-boot-starter/src/it/arthas-spring-boot-starter-example/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2022-05-24 06:31:49.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-actuator
+  description: Starter for using Spring Boot's Actuator which provides production
+    ready features to help you monitor and manage your application
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/pom.xml
+  detection_source: arthas-spring-boot-starter/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-06-24 12:57:13.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-redis
+  description: Starter for using Redis key-value data store with Spring Data Redis
+    and the Lettuce client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-11-03 14:22:06.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/tunnel-server/pom.xml
+  detection_source: tunnel-server/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-11-03 14:22:06.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/pom.xml
+  detection_source: arthas-spring-boot-starter/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-06-30 15:20:03.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-spring-boot-starter/pom.xml
+  detection_source: arthas-spring-boot-starter/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-06-24 12:57:13.000000000 Z
+- name: org.zeroturnaround:zt-zip
+  description: The project is intended to have a small, easy and fast library to process
+    ZIP archives
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/arthas-agent-attach/pom.xml
+  detection_source: arthas-agent-attach/pom.xml
+  last_updated_by: hengyunabc
+  last_updated_on: 2020-06-24 12:57:13.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 3.0.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-11-04 02:40:51.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 3.2.8
+  - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
+      (//)
+    cve_id: CVE-2023-34092
+    cve_url: https://github.com/advisories/GHSA-353f-5xf4-qw67
+    detected_date: Nov 23
+    severity: high
+    first_patched: 3.2.7
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 3.2.10
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.7.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 3.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: site/package.json
+  last_updated_by: Fatpandac
+  last_updated_on: 2022-09-02 08:30:29.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/web-ui/arthasWebConsole/yarn.lock
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 3.2.38
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-10-10 14:54:30.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: web-ui/arthasWebConsole/package.json
+  last_updated_by: xudaotutou
+  last_updated_on: 2022-11-04 02:40:51.000000000 Z
+- name: xml-js
+  description: A convertor between XML text and Javascript object / JSON text
+  package_url: https://www.npmjs.com/xml-js
+  version: 1.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18393/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
+  detection_source_url: https://github.com/huhuhuHR/arthas/blob/master/site/package-lock.json
+  detection_source: site/package.json
+  last_updated_by: Fatpandac
+  last_updated_on: 2022-08-03 08:39:59.000000000 Z
